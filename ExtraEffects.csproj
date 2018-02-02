@@ -63,8 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommandDisableEffect.cs" />
-    <Compile Include="CommandSendEffect.cs" />
     <Compile Include="ExtraEffects.cs" />
     <Compile Include="ExtraEffectsConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
